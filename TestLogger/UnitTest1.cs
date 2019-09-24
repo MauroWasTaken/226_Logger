@@ -1,12 +1,16 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace TestLogger
+namespace Logger
 {
     [TestClass]
-    public class UnitTest1
+    public class TestLogger
     {
+        /// <summary>
+        /// 
+        /// </summary>
         [TestMethod]
+        
         public void TestMethod1()
         {
         }

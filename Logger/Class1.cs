@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Logger
 {
-    public class Class1
+    /// <summary>
+    /// 
+    /// </summary>
+    public class Logger
     {
     }
 }
